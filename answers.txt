@@ -1,0 +1,6 @@
+1.
+
+2. Writing the tests first are a way of knowing what you are doing and why,
+not just coding away aimlessly.
+
+3.
