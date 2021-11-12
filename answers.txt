@@ -1,4 +1,9 @@
-1.
+1. You have to create a Gemfile to access Rspec. Then you have to run "bundle install" in your terminal.
+Then you have to initialize Rspec with "rspec --init" 
+Finally you have to pass in the following to the .rspec file
+
+--format documentation
+--color
 
 2. Writing the tests first are a way of knowing what you are doing and why,
 not just coding away aimlessly.
