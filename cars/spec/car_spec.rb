@@ -9,4 +9,3 @@ end
 it "is expected to have a driver"
 expect(subject.driver).to be_an_instance_of Driver
 end
-

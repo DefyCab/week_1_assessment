@@ -7,5 +7,3 @@ Finally you have to pass in the following to the .rspec file
 
 2. Writing the tests first are a way of knowing what you are doing and why,
 not just coding away aimlessly.
-
-3.
